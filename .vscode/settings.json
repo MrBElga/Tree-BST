@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "windows.h": "c",
+        "conio2.h": "c"
+    },
+    "c-cpp-compile-run.run-in-external-terminal": true
+}
